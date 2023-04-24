@@ -5,7 +5,7 @@ class GeoposicionamientoController extends ControladorBase{
         parent::__construct();
     }
     
-    //
+    ///
     
     
     public function index_report(){
